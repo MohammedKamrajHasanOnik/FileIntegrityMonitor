@@ -22,7 +22,7 @@ if it does get changed perhaps get an alert or notification to that change, so a
 
 <p align="center">
 <b>The network diagram as shown I will be utilizing for the project</b> <br/>
-<img src="https://imgur.com/a/S2C5lkZ"/>
+<img src="https://imgur.com/a/CDfGo6t"/>
 <br />
 <br />
 <br/>
