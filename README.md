@@ -1,4 +1,4 @@
-<h1>Hashing Algorithims and Coding up a File Integrity Monitor </h1>
+<h1>FileIntegrityMonitor </h1>
 
 <h2>Description</h2>
 This project is a guide of how I create hashing algorithims and code up a custom file integrity monitor, integrity means maintaining consistency and trustworthy of data, this could indicate making sure data doesnt get changed when its not meant to be, 
@@ -8,7 +8,7 @@ if it does get changed perhaps get an alert or notification to that change, so a
 <h3>Languages and Utilities Used</h3>
 
 - <b>Powershell</b> 
-- <b>Hashing Algorithim (SHA-512, etc.)</b>
+- <b>Hashing Algorithims (SHA-512, etc.)</b>
 - <b>Automation</b>
 
 <h2>Environments Used </h2>
@@ -23,11 +23,9 @@ if it does get changed perhaps get an alert or notification to that change, so a
 <p align="center">
 <b>The network diagram as shown I will be utilizing for the project</b> <br/>
 <img src="https://imgur.com/a/CDfGo6t"/>
-<br />
-<br />
-<br/>
 
 
+<p align="center">
 <b> What would you like to do? A) collect new baseline or B begin monitoring files with saved Baseline? write host with read host prompt commands Please enter A or B with user responses</b> <br/>
 <img src="https://imgur.com/W8t1Jrl"/>
 <br />
