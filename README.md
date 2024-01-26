@@ -27,7 +27,7 @@ if it does get changed perhaps get an alert or notification to that change, so a
 <br />
 <br/>
 
-<p align="center">
+
 <b> What would you like to do? A) collect new baseline or B begin monitoring files with saved Baseline? write host with read host prompt commands Please enter A or B with user responses</b> <br/>
 <img src="https://imgur.com/W8t1Jrl"/>
 <br />
