@@ -69,6 +69,14 @@ if it does get changed perhaps get an alert or notification to that change, so a
 
 
 <p align="center">
+<b> Checked baseline with changes. </b> <br/>
+<img src="https://i.imgur.com/d9WsfKz.jpeg"/>
+<br />
+<br />
+<br/>
+
+
+<p align="center">
 <b> Utilized an array with dictonary assigining certain methods, checking baselines as well as checking for values etc. </b> <br/>
 <img src="https://i.imgur.com/mZAwlNm.jpeg"/>
 <br />
