@@ -78,7 +78,7 @@ if it does get changed perhaps get an alert or notification to that change, so a
 
 <p align="center">
 <b> Created if else if while for each statements with different options to check e.txt file if it has been changed or created etc </b> <br/>
-<img src="blob:https://imgur.com/8aa61baf-87c9-4412-a677-d58bd083c961"/>
+<img src="https://i.imgur.com/LJbpSHX.jpeg"/>
 <br />
 <br />
 <br/>
