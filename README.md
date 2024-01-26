@@ -69,7 +69,7 @@ if it does get changed perhaps get an alert or notification to that change, so a
 
 
 <p align="center">
-<b> Checked baseline with changes. </b> <br/>
+<b> Checked baseline with changes </b> <br/>
 <img src="https://i.imgur.com/d9WsfKz.jpeg"/>
 <br />
 <br />
