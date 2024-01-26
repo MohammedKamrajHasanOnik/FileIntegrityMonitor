@@ -1,7 +1,7 @@
 <h1>FileIntegrityMonitor </h1>
 
 <h2>Description</h2>
-This project is a guide of how I create hashing algorithims and code up a custom file integrity monitor, integrity means maintaining consistency and trustworthy of data, this could indicate making sure data doesnt get changed when its not meant to be, 
+This project is a guide of how I create and utilize hashing algorithims and code up a custom file integrity monitor, integrity means maintaining consistency and trustworthy of data, this could indicate making sure data doesnt get changed when its not meant to be, 
 if it does get changed perhaps get an alert or notification to that change, so an analyst/monitor can investigate and fix this issue. Code is within the repository for references.
 <br />
 
