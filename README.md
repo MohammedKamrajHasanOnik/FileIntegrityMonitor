@@ -5,7 +5,7 @@ This project is a guide of how I create hashing algorithims and code up a custom
 if it does get changed perhaps get an alert or notification to that change, so an analyst/monitor can investigate and fix this issue.
 <br />
 
-<h2>Languages and Utilities Used</h2>
+<h3>Languages and Utilities Used</h3>
 
 - <b>Powershell</b> 
 - <b>Hashing Algorithim (SHA-512, etc.)</b>
@@ -18,7 +18,7 @@ if it does get changed perhaps get an alert or notification to that change, so a
 
 
 
-<h2 align="center">Program guide</h2>
+<h4 align="center">Program guide</h4>
 
 <p align="center">
 <b>The network diagram as shown I will be utilizing for the project</b> <br/>
